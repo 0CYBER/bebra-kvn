@@ -1,3 +1,13 @@
+# ⚠️ Репозитория перенесена
+
+> [!WARNING]
+> This repository has been archived and is no longer maintained.
+>
+> Development continues at:
+>
+> **https://github.com/krambovic/Lumen-KVN**
+>
+
 # Bebra VPN
 
 <p align="center">
